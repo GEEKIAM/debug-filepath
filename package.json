@@ -1,0 +1,32 @@
+{
+  "name": "debug-filepath",
+  "version": "1.0.0",
+  "description": "Add filepath to namespace",
+  "main": "debug-filepath.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GEEKIAM/debug-filepath.git"
+  },
+  "keywords": [
+    "debug",
+    "log",
+    "debugger",
+    "file",
+    "name",
+    "path"
+  ],
+  "author": "Anton Fedulov <afedulov.geekiam@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GEEKIAM/debug-filepath/issues"
+  },
+  "homepage": "https://github.com/GEEKIAM/debug-filepath#readme",
+  "dependencies": {
+    "app-root-path": "^2.0.1",
+    "debug": "^2.3.3",
+    "stack-trace": "0.0.9"
+  }
+}
