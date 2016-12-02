@@ -1,7 +1,7 @@
 {
   "name": "debug-filepath",
   "version": "1.0.0",
-  "description": "Add filepath to namespace",
+  "description": "Wrapper for debug module that adds file path to nemepsace",
   "main": "debug-filepath.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
