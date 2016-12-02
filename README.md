@@ -75,6 +75,6 @@ Show logs only from [`worker-2.js`](https://github.com/GEEKIAM/debug-filepath/tr
 
 ---
 
-Show logs only from [`worker-2.js`](https://github.com/GEEKIAM/debug-filepath/tree/master/example/baz/worker-2.js) and [`worker-1.js`](https://github.com/GEEKIAM/debug-filepath/tree/master/example/baz/worker-1.js) files:
+Show logs only from [`worker-2.js`](https://github.com/GEEKIAM/debug-filepath/tree/master/example/baz/worker-2.js) and [`worker-1.js`](https://github.com/GEEKIAM/debug-filepath/tree/master/example/worker-1.js) files:
 
 ![only from `worker-2.js` and `worker-1.js` files](https://cloud.githubusercontent.com/assets/6225592/20684198/9018a660-b5b7-11e6-851c-84fdeffd3f4b.png)
