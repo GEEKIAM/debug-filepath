@@ -78,3 +78,27 @@ Show logs only from [`worker-2.js`](https://github.com/GEEKIAM/debug-filepath/tr
 Show logs only from [`worker-2.js`](https://github.com/GEEKIAM/debug-filepath/tree/master/example/baz/worker-2.js) and [`worker-1.js`](https://github.com/GEEKIAM/debug-filepath/tree/master/example/worker-1.js) files:
 
 ![only from `worker-2.js` and `worker-1.js` files](https://cloud.githubusercontent.com/assets/6225592/20684198/9018a660-b5b7-11e6-851c-84fdeffd3f4b.png)
+
+## License
+
+MIT License
+
+Copyright (c) 2016 Anton Fedulov
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
